@@ -1,0 +1,56 @@
+{
+  "username": "anth",
+  "aboutme": "🔭 I’m currently working on #profileGenerator\n👯 I’m looking to collaborate on #sysl_plus\n🤝 I’m looking for help with\n🌱 I’m currently learning\n💬 Ask me about\n⚡ Fun fact",
+  "stats": {
+    "theme": "default",
+    "border": true,
+    "lifetime": false,
+    "prv": false
+  },
+  "socials": {
+    "behance": "",
+    "github": "anthedung",
+    "linkedin": "anthedung",
+    "medium": "",
+    "pinterest": "",
+    "quora": "",
+    "stackoverflow": ""
+  },
+  "role": [
+    "Support And Operations Engineer",
+    "Infrastructure Engineer"
+  ],
+  "tech": [
+    "Slack",
+    "Linux",
+    "Windows"
+  ],
+  "badge_theme": "for-the-badge",
+  "donate": {
+    "buymeacoffee": "",
+    "paypal": "",
+    "patreon": "",
+    "kofi": ""
+  },
+  "trophy": {
+    "theme": "radical",
+    "border": true,
+    "background": false
+  },
+  "visitcount": {
+    "color": 0,
+    "icon": 0
+  },
+  "quote": {
+    "quoteTheme": "radical",
+    "layout": "horizontal"
+  },
+  "checkbox": {
+    "trophychk": false,
+    "visitorschk": true,
+    "quotechk": false,
+    "memechk": false
+  },
+  "lastUpdateOn": "2022-12-23T02:01:03.051Z",
+  "finalData": "# 💫 About Me { anth }\n<br/>\n\n🔭 I’m currently working on #profileGenerator<br>👯 I’m looking to collaborate on #sysl_plus<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact\n\n\n## 🌐 Socials:\n[![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=github&logoColor=white)](htttps://github.com/anthedung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthedung) \n\n## 💻 Tech Stack:\n[![Slack](https://www.vectorlogo.zone/logos/slack/slack-icon.svg)](https://www.vectorlogo.zone/logos/slack/slack-icon.svg) [![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)](https://www.vectorlogo.zone/logos/linux/linux-icon.svg) [![Windows](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)](https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg)\n\n---\n[![](https://visitcount.itsvg.in/api?id=anth&icon=0&color=0)](https://visitcount.itsvg.in)\n\n*🕒 Last Updated via Profile Generator: 2022-12-23T02:01:03.051Z*\n\n<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->"
+}
