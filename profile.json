@@ -21,9 +21,18 @@
     "Infrastructure Engineer"
   ],
   "tech": [
-    "Slack",
-    "Linux",
-    "Windows"
+    {
+      label: "Slack",
+      level: 5,
+    },
+    {
+      label: "Linux",
+      level: 4,
+    },
+    {
+      label: "Windows",
+      level: 3,
+    }
   ],
   "badge_theme": "for-the-badge",
   "donate": {
